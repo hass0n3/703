@@ -1,5 +1,4 @@
-  
-let age = 0
+  let age = 0
 
 document.getElementById('button').addEventListener('click', check)
 
