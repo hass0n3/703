@@ -14,3 +14,4 @@ function check () {
   } else {
     alert('Uh. You`re too young to see most things.')
   }
+}
