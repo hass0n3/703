@@ -15,3 +15,4 @@ function check () {
     alert('Uh. You`re too young to see most things.')
   }
 }
+}
